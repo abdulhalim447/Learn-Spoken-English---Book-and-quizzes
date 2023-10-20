@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/quiz"
+        android:icon="@drawable/live_quiz_logo"
+        android:title="live quiz" />
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/icon_spoken"
+        android:title="Spoken" />
+
+    <item
+        android:id="@+id/notificatio"
+        android:icon="@drawable/book_logo"
+        android:title="Grammar" />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/offline_logo"
+        android:title="Offline" />
+
+
+</menu>
